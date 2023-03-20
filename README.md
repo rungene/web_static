@@ -114,7 +114,7 @@ Requirements:
 	- You are not allowed to use the style tag in the head tag
 	- Use inline styling for all your tags
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/98f4ac1b0644512ce7ae91a9e8e61e8fe174911d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230320T070439Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0b32d4063e4e4f4329448d24c28b75d43d38256ed7533664702335871a8bff62)
+![](/img/0-index)
 
 **Repo:**
 
