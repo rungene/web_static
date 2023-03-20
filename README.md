@@ -193,7 +193,7 @@ Requirements:
 		- styles/3-header.css: for the header style
 		- styles/3-footer.css: for the footer style
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/2be1eda05a0d9097c210f2d3482a59aa858c5711.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230320T070439Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9984a87501a16554b89189b758517424c2bfa2c612b5e45539a8480a009fba69)
+![](/web_static/img/hbnb.png)
 
 **Repo:**
 
