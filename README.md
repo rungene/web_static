@@ -114,7 +114,7 @@ Requirements:
 	- You are not allowed to use the style tag in the head tag
 	- Use inline styling for all your tags
 
-![](/img/0-index.png)
+![](/web_static/img/0-index.png)
 
 **Repo:**
 
@@ -154,3 +154,49 @@ The layout must be exactly the same as 1-index.html
 	- GitHub repository: AirBnB_clone
 	- Directory: web_static
 	- File: 2-index.html, styles/2-common.css, styles/2-header.css, styles/2-footer.css
+
+> 3. Zoning done! 
+
+Write an HTML page that displays a header and footer by using CSS files (same as 2-index.html)
+
+Layout:
+
+	- Common:
+		- no margin
+		- no padding
+		- font color: #484848
+		- font size: 14px
+		- font family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+		- [icon](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon.png) in the browser tab
+	- Header: 
+		- color: white
+		- height: 70px
+		- width: 100%
+		- border bottom 1px #CCCCCC
+		- [logo](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png) align on left and center vertically (20px space at the left)
+	- Footer: 
+		- color white
+		- height: 60px
+		- width: 100%
+		- border top 1px #CCCCCC
+		- text Best School center vertically and horizontally
+		- always at the bottom at the page
+
+Requirements:
+
+	-  No inline style
+	- You are not allowed to use the img tag
+	- You are not allowed to use the style tag in the head tag
+	- All images must be stored in the images folder
+	- You must have 3 CSS files: 
+		- styles/3-common.css: for the global style (i.e body style)
+		- styles/3-header.css: for the header style
+		- styles/3-footer.css: for the footer style
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/2be1eda05a0d9097c210f2d3482a59aa858c5711.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230320T070439Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9984a87501a16554b89189b758517424c2bfa2c612b5e45539a8480a009fba69)
+
+**Repo:**
+
+	- GitHub repository: AirBnB_clone
+	- Directory: web_static
+	- File: 3-index.html, styles/3-common.css, styles/3-header.css, styles/3-footer.css, images/
